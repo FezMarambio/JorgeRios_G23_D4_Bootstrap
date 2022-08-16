@@ -1,0 +1,44 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #ffffff;
+}
+
+.custom-toggler.navbar-toggler {
+    border-color: #FFFFFF80;
+}
+
+
+.nav-color-fondo{
+    background-color: #28A745;
+}
+
+.logo-cuppon{
+    width: 86px;
+    height: 25px;
+}
+
+.card{
+    width: 100%;
+    margin: auto;
+    border-color: #DDDDDD;
+}
+
+h5, p{
+    font-weight: 300;
+}
+
+h6, p{
+    color: #707070;
+}
+
+.precio-oferta{
+    font-weight: bold;
+    color: #28A745;
+}
+
+.custom-btn.btn-light{
+    width: 7em;
+    font-weight: bold;
+    background-color: #F8F9FA;
+    border-color: #DDDDDD;
+}
